@@ -1,0 +1,38 @@
+{
+  "title_keyword": "绿泡泡短剧",
+  "class_name": "Chrome_WidgetWin_0",
+  "poll_ms": 100,
+  "confirm_frames": 3,
+  "score_threshold": 0.6,
+  "roi_top": 0.75,
+  "gestures": [
+    [
+      0.12,
+      0.8,
+      0.12,
+      0.26
+    ],
+    [
+      0.5,
+      0.72,
+      0.5,
+      0.16
+    ],
+    [
+      0.88,
+      0.78,
+      0.88,
+      0.26
+    ]
+  ],
+  "drag_steps": 20,
+  "drag_ms": 300,
+  "quiet_ms": 10000,
+  "cooldown_ms": 3000,
+  "max_retries": 1,
+  "backoff_ms": 60000,
+  "max_actions": 300,
+  "activate": true,
+  "restore_cursor": true,
+  "dismiss_dialog": true
+}
